@@ -1,2 +1,3 @@
 # Data-Based-Recommendations-for-A-New-Movie-Project
 This project analyzes 30 years of movie data using visualizations to uncover audience preferences, trends, and success factors. The goal is to provide data-driven recommendations to stakeholder Steven Spielberg, aiding in reliable and effective decision-making for selecting successful movies to produce
+![Home Image](https://github.com/prasannaprakashwork/Data-Based-Recommendations-for-A-New-Movie-Project/blob/main/DALL%C2%B7E%202024-11-25%2023.21.20%20-%20A%20cinematic%20and%20professional%20illustration%20for%20a%20project%20analyzing%2030%20years%20of%20movie%20data.%20The%20image%20highlights%20elements%20like%20a%20glowing%20movie%20theater%20m.webp)
